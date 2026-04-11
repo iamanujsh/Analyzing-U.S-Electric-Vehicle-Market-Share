@@ -33,6 +33,13 @@ States with the Lowest EV Distribution: North Dakota and Wyoming have the fewest
 </p>
 
 
+<h1>
+  Market Analysis
+</h1>
+
+<img width="895" height="736" alt="{A04DC503-35C6-46C3-8BD8-16CDC14AA5EF}" src="https://github.com/user-attachments/assets/cfee6685-674d-4ca0-a5c2-162fed5b6e91" />
+
+
 
 
 
