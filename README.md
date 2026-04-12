@@ -45,18 +45,6 @@ States with the Lowest EV Distribution: North Dakota and Wyoming have the fewest
 * **PHEVs** are most prominent in states like California (**1.11%**), D.C. (**1.19%**), and Massachusetts (**0.80%**).
 * **HEVs** show higher percentages compared to EVs and PHEVs in many states, such as California (**4.62%**), Washington (**4.51%**), and Massachusetts (**3.41%**), indicating a notable presence of hybrids in these markets.
 
----
-
-### Other Observations
-* Some smaller or less populous states tend to have lower EV adoption rates but still maintain a presence, e.g., **Alaska with 0.48% EVs** and **Vermont with 1.32%**.
-* While gasoline vehicles still predominate, the combined shares of EV, PHEV, and HEV suggest a **growing footprint of alternative vehicle types**, implying infrastructure needs will increase over time.
-
----
-
-### 🚀 Implications for Infrastructure Planning
-* **States like California and Washington** may require expanded EV charging infrastructure to support growing EV fleets.
-* **States with rising PHEV and HEV shares** may benefit from hybrid fueling strategies and incentive programs to gradually transition users towards full EV adoption.
-
 ## 2. Top 5 States with Highest EV Adoption Rate (EVs as % of All Registered Vehicles)
 
 <img width="1416" height="790" alt="{506EF976-ED02-4C91-8791-543D2763856C}" src="https://github.com/user-attachments/assets/02e129ff-64ce-480d-a0cc-edeb0e3e1173" />
