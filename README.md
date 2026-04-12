@@ -37,13 +37,34 @@ States with the Lowest EV Distribution: North Dakota and Wyoming have the fewest
   Market Analysis
 </h1>
 
-<img width="895" height="736" alt="{A04DC503-35C6-46C3-8BD8-16CDC14AA5EF}" src="https://github.com/user-attachments/assets/cfee6685-674d-4ca0-a5c2-162fed5b6e91" />
+## 1. Percentage of EVs, PHEVs, HEVs, and Gasoline Vehicles by State
 
-<ol>Gasoline vehicles remain the dominant mode of transportation nationwide , around 95% of Vehicle are Gasoline</ol>
-<ol>HEVs show a stronger presence than both EVs and PHEVs</ol>
+### Summary of Findings
+* **Gasoline vehicles** overwhelmingly dominate vehicle registrations across all states, with most states showing gasoline vehicle percentages above **80%**. For example, Alabama shows **84.83%** gasoline vehicles.
+* **California** leads in electric vehicle adoption with **3.41% EVs**, followed by notable EV percentages in Washington (**2.23%**), D.C. (**2.60%**), and Hawaii (**2.37%**).
+* **PHEVs** are most prominent in states like California (**1.11%**), D.C. (**1.19%**), and Massachusetts (**0.80%**).
+* **HEVs** show higher percentages compared to EVs and PHEVs in many states, such as California (**4.62%**), Washington (**4.51%**), and Massachusetts (**3.41%**), indicating a notable presence of hybrids in these markets.
+
+---
+
+### Other Observations
+* Some smaller or less populous states tend to have lower EV adoption rates but still maintain a presence, e.g., **Alaska with 0.48% EVs** and **Vermont with 1.32%**.
+* While gasoline vehicles still predominate, the combined shares of EV, PHEV, and HEV suggest a **growing footprint of alternative vehicle types**, implying infrastructure needs will increase over time.
+
+---
+
+### 🚀 Implications for Infrastructure Planning
+* **States like California and Washington** may require expanded EV charging infrastructure to support growing EV fleets.
+* **States with rising PHEV and HEV shares** may benefit from hybrid fueling strategies and incentive programs to gradually transition users towards full EV adoption.
 
 
+## 2. Top 5 States with Highest EV Adoption Rate (EVs as % of All Registered Vehicles)
 
+<img width="1407" height="781" alt="{8EA69595-4B8F-413E-9D76-32255A6888F3}" src="https://github.com/user-attachments/assets/3cbdf49e-a3e3-43a9-b975-0f72b775d747" />
+
+* **California and The District of Columbia** lead the nation in EV adoption, each with roughly **3%** of registered vehicles being electric, making them clear frontrunners.
+* Following them are states such as **Hawaii, Washington, and Nevada** showing similarly strong adoption levels, all near the **2%** range.
+* In most states, however, EV penetration remains low, around **1% or below**, with **34 states** falling under the 1% threshold.
 
 
 
