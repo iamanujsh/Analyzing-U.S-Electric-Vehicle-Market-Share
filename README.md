@@ -57,23 +57,32 @@ States with the Lowest EV Distribution: North Dakota and Wyoming have the fewest
 * **States like California and Washington** may require expanded EV charging infrastructure to support growing EV fleets.
 * **States with rising PHEV and HEV shares** may benefit from hybrid fueling strategies and incentive programs to gradually transition users towards full EV adoption.
 
-
 ## 2. Top 5 States with Highest EV Adoption Rate (EVs as % of All Registered Vehicles)
 
-<img width="1407" height="781" alt="{8EA69595-4B8F-413E-9D76-32255A6888F3}" src="https://github.com/user-attachments/assets/3cbdf49e-a3e3-43a9-b975-0f72b775d747" />
+<img width="1416" height="790" alt="{506EF976-ED02-4C91-8791-543D2763856C}" src="https://github.com/user-attachments/assets/02e129ff-64ce-480d-a0cc-edeb0e3e1173" />
 
 * **California and The District of Columbia** lead the nation in EV adoption, each with roughly **3%** of registered vehicles being electric, making them clear frontrunners.
 * Following them are states such as **Hawaii, Washington, and Nevada** showing similarly strong adoption levels, all near the **2%** range.
 * In most states, however, EV penetration remains low, around **1% or below**, with **34 states** falling under the 1% threshold.
 
+## 3. Compare EV adoption in California vs. other large states (e.g., Texas, Florida, New York)
 
+<img width="1393" height="709" alt="{6CC149DD-24B0-4B77-AEFF-4885F3819BD6}" src="https://github.com/user-attachments/assets/9ac33b50-8cee-40aa-b9b9-6a8e3325163b" />
 
+* Among major states, **California** stands out with a **3.41% EV adoption rate**, placing it well ahead.
+* **Florida**, despite having over **254,000 registered EVs**, reaches only **1.37%**, highlighting a much lower penetration relative to its total vehicle base.
+* **New York** reports a similar pattern, with EVs making up just **1.16%** of vehicles.
+* **Texas** shows the weakest adoption at **0.89%**. Even though the state has more than **230,000 EVs**, its large vehicle population dilutes the overall adoption rate.
 
+---
 
+## 4. Which alternative fuels (biodiesel, ethanol/E85, hydrogen) have meaningful presence vs. niche usage
 
+<img width="439" height="303" alt="{2EBE1753-E418-48C0-8984-4CF3CF7903A9}" src="https://github.com/user-attachments/assets/7a662f78-63b5-47b0-b1dc-e253b3b72e89" />
 
-
-
+* **E85 vehicles** make up the largest share of alternative-fuel vehicles, representing **7.05%** of all registered vehicles, with a total of **20.24 million** vehicles nationwide.
+* **Biodiesel vehicles** account for **0.98%** of the fleet, totaling **2.8 million** vehicles.
+* **Hydrogen-powered vehicles** remain extremely rare, making up only **0.01%** of all vehicles, with just **16,900** registered nationally, remains a highly niche fuel type with minimal adoption.
 
 
 
